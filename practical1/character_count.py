@@ -1,4 +1,4 @@
-# character_count.py
+ # character_count.py
 
 text = input("Enter a string: ")
 
