@@ -1,4 +1,4 @@
-# bit_stuffing.py
+ # bit_stuffing.py
 
 data = input("Enter binary data: ")
 
