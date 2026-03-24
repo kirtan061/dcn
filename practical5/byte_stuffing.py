@@ -1,4 +1,4 @@
-# byte_stuffing.py
+ # byte_stuffing.py
 
 data = input("Enter data: ")
 
